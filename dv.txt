@@ -1,0 +1,3 @@
+DV
+Szoftverfejlesztő/tesztelő
+true
